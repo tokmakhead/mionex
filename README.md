@@ -1,6 +1,12 @@
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
-<img src="assets/cover.png" width="700">
+<img src="assets/cover.png" width="200">
+
+</td>
+</tr>
+</table>
 
 # MIONEX
 
