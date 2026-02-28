@@ -4,10 +4,11 @@
 
 <img src="assets/cover.png" width="200">
 
-
+</td>
 </tr>
 </table>
 
+<td align="center">
 # MIONEX
 
 ### Finance • Billing • Digital Services Management Platform
@@ -19,9 +20,9 @@ MIONEX, işletmeler için geliştirilen modern finans, fatura ve dijital servis 
 <a href="#satın-alma">🛒 Satın Alma</a> •
 <a href="#özellikler">✨ Özellikler</a>
 </p>
-
-</div>
 </td>
+</div>
+
 ---
 
 ## 🚀 Demo
